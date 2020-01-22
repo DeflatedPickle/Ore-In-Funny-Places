@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "oreinfunnyplaces",
+    "name": "OreInFunnyPlaces",
+    "description": "A mod that adds; Gravel, Nether and Ender ores.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/DeflatedPickle/OreInFunnyPlaces",
+    "updateUrl": "",
+    "authorList": [
+      "DeflatedPickle"
+    ],
+    "credits": "Mojang, Minecraft, Forge, FML",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

@@ -1,2 +1,2 @@
-# Ore-In-Funny-Places
-A Minecraft mod that adds; Gravel, Nether and Ender ores.
+# RespawnHearts
+A Minecraft mod to change the hearts and effects a player spawns with.
