@@ -1,7 +1,7 @@
 {
   "parent": "oreinfunnyplaces:block/cube_overlay",
   "textures": {
-    "base": "blocks/red_sandstone_all",
+    "base": "blocks/red_sandstone_normal",
     "overlay": "oreinfunnyplaces:blocks/ore_1"
   }
 }
